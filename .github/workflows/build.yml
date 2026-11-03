@@ -36,8 +36,8 @@ on:
         default: 1
 
 env:
-  REPO_URL: https://github.com/bingoguo93/immortalwrt
-  REPO_BRANCH: 6.18.52
+  REPO_URL: https://github.com/rapidacc/ponwrt
+  REPO_BRANCH: 1020
   FEEDS_CONF: feeds.conf.default
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
